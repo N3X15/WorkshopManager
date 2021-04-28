@@ -107,4 +107,5 @@ venv.bak/
 *.pkl
 
 # ide
-.idea/
+.idea/"vnm.state" 
+".venv" 
